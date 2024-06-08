@@ -45,7 +45,7 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [`Here`](https://github.com/Samue-l1/Classic-v3-BUG/fork)
+- FORK THE REPOSITORY [`Here`]<a href='https://github.com/henrygokugt99/TorrEs-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## `Generate Pair Code For Session`
 
@@ -61,7 +61,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 *Add your Creds.json to Classic file
-* Create a new app at [Heroku](heroku.com)
+* Create a new app at [Heroku](HEROKU.com)
 * Add Build packs
 * Connect your heroku with your github
 * Locate Classic-v3-BUG
